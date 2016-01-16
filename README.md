@@ -24,7 +24,7 @@ as far as restricting the scope of access.
 3. Leverage OAuth2 as our authentication implementation strategy.
 This happens to be capably implemented by the Doorkeeper gem.
 
-4. Leverage Devise as out account manegment strategy.
+4. Leverage Devise as out account management strategy.
 
 ## Benefits
 
